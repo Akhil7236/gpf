@@ -63,8 +63,8 @@ const Header = () => {
               <ul id="NavLists" className="NavLstToggle">
                 <li className="listHover">HOME</li>
                 <li className="listHover"onClick={portfolioFunction}>PORTFOLIO</li>
-                <li className="listHover">ALBUMS</li>
-                <li className="listHover">SERVICES</li>
+                <li className="listHover">ALBUM</li>
+                <li className="listHover">SERVICE</li>
                 <li className="listHover">CONTACT</li>
                 <li className="listHover">ABOUT</li>
               </ul>
